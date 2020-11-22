@@ -1,0 +1,9 @@
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\bin\Debug\netstandard2.0\Service.dll
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\obj\Debug\netstandard2.0\Service.dll
+C:\Users\ratad\Documents\GitHub\Cortez-David-22-11-2020\Bertoni-solutions\Service\obj\Debug\netstandard2.0\Service.pdb
